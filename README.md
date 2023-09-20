@@ -1,19 +1,5 @@
 # ivan-portfolio
 
-
-> Video tutorial
-
-
-[Cristian Mihai](https://www.youtube.com/watch?v=qp0-L_M3Ad4&t=403s)
-
-|video duration:           | _02:50:47 _👍  |
-|--------------------------|--------------- |
-|progress status the video:|  00:08:48  🎱  |
-
-
-
-#
-
 ## Clone from project
 
 Clone Project in [Github](https://github.com/ivandacruz/ivan-portfolio)
@@ -32,25 +18,11 @@ npm run dev # run project
 
 #
 
-  # OR
+  > # OR Create new project
 
+<hr>
 
 ### Project ingredients
-
-## Frame motion
-
-Docs reference: 
-	[Framer Motion](https://www.framer.com/motion/)
-
-Install: 
-	[Framer Motion](https://www.npmjs.com/package/framer-motion)
-
-```sh
-
-npm i framer-motion
-
-```
-<hr>
 
 ## Next JS
 
@@ -93,6 +65,21 @@ npm install react-icons --save
 
 <hr>
 
+## Frame motion
+
+Docs reference: 
+	[Framer Motion](https://www.framer.com/motion/)
+
+Install: 
+	[Framer Motion](https://www.npmjs.com/package/framer-motion)
+
+```sh
+
+npm i framer-motion
+
+```
+<hr>
+
 ## TS Particles
 
 Docs reference:
@@ -117,20 +104,6 @@ Docs reference:
 ```sh
 
 npm i swiper
-
-```
-
-<hr>
-
-## Frame Motion
-
-Docs reference: 
-	[Frame Motion](https://www.framer.com/motion/introduction/)
-
-
-```sh
-
-npm install framer-motion
 
 ```
 
@@ -170,6 +143,19 @@ npm i tailwind-scrollbar
 |Autor: | Ivan |
 |-------|------|
 
+<!-- > Video tutorial
+
+[Cristian Mihai](https://www.youtube.com/watch?v=qp0-L_M3Ad4&t=403s)
+|video duration:           | _02:50:47 _👍  |
+|--------------------------|--------------- |
+|progress status the video:|  00:08:48  🎱  | -->
+
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3AbadgeContent)
 
 <hr>
+
+
+
+
+
+
