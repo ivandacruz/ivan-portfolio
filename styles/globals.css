@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Aqui definimos as variaves que seram inseridas no css do projeto */
+
 .translate-z-0 {
   transform: translateZ(0px);
 }
@@ -23,6 +25,7 @@
     @apply bg-secondary overflow-hidden leading-relaxed;
   }
   .page {
+    /* @apply w-full h-96 overflow-hidden; */
     @apply w-full h-screen overflow-hidden;
   }
   .h1 {

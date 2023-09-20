@@ -140,20 +140,18 @@ npm i tailwind-scrollbar
 <hr>
 
 
-|Autor: | Ivan |
-|-------|------|
+|Autor: | Ivan | :heart:|👍 |
+|-------|------|--------|----|
 
 <!-- > Video tutorial
 
 [Cristian Mihai](https://www.youtube.com/watch?v=qp0-L_M3Ad4&t=403s)
-|video duration:           | _02:50:47 _👍  |
+|video duration:           | _02:50:47 _ |
 |--------------------------|--------------- |
 |progress status the video:|  00:08:48  🎱  | -->
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3AbadgeContent)
-
-<hr>
-
+<!-- ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3AbadgeContent) -->
+<hr> 
 
 
 
