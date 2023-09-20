@@ -53,6 +53,23 @@ npx create-next-app@latest
 
 ```
 <hr>
+Docs reference
+
+[Next - Font](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts)
+
+Install npm
+
+[@next / font](https://www.npmjs.com/package/@next/font)
+
+```sh
+
+npm i @next/font
+
+```
+
+<hr>
+
+
 
 [ React-Icons ](https://react-icons.github.io/react-icons/)
 
@@ -84,6 +101,19 @@ Swiper Install
 ```sh
 
 npm i swiper
+
+```
+
+<hr>
+
+
+Frame Motion
+
+[Frame Motion](https://www.framer.com/motion/introduction/)
+
+```sh
+
+npm install framer-motion
 
 ```
 
