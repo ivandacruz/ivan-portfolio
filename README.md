@@ -35,11 +35,15 @@ npm run dev # run project
   # OR
 
 
-## Project ingredients
+### Project ingredients
 
-[Framer Motion - Docs](https://www.framer.com/motion/)
+## Frame motion
 
-[Framer Motion - install npm](https://www.npmjs.com/package/framer-motion)
+Docs reference: 
+	[Framer Motion](https://www.framer.com/motion/)
+
+Install: 
+	[Framer Motion](https://www.npmjs.com/package/framer-motion)
 
 ```sh
 
