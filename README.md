@@ -16,21 +16,24 @@
 
 ## Clone from project
 
-Clone Project in [Github](https://github.com/cristianmihai01/ethan-portfolio-starter)
+Clone Project in [Github](https://github.com/ivandacruz/ivan-portfolio)
 
 Install the dependencies and [devDependencies] and start the server.
 
 
-
 ```sh
-cd ethan-portfolio-starter
+cd ivan-portfolio
 
 npm i  # install dependencies
 
 npm run dev # run project
 
 ```
+
 #
+
+  # OR
+
 
 ## Project ingredients
 
@@ -45,7 +48,10 @@ npm i framer-motion
 ```
 <hr>
 
-[ Next JS ](https://nextjs.org/)
+## Next JS
+
+Docs reference:
+	[ Next JS ](https://nextjs.org/)
 
 ```sh
 
@@ -53,13 +59,14 @@ npx create-next-app@latest
 
 ```
 <hr>
-Docs reference
 
-[Next - Font](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts)
+## Next Font
 
-Install npm
+Docs reference:
+	[Next - Font](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts)
 
-[@next / font](https://www.npmjs.com/package/@next/font)
+Install npm:
+	[@next / font](https://www.npmjs.com/package/@next/font)
 
 ```sh
 
@@ -69,9 +76,10 @@ npm i @next/font
 
 <hr>
 
+## React Icons
 
-
-[ React-Icons ](https://react-icons.github.io/react-icons/)
+Docs reference:
+	[ React-Icons ](https://react-icons.github.io/react-icons/)
 
 ```sh
 
@@ -81,7 +89,10 @@ npm install react-icons --save
 
 <hr>
 
-[tsParticles docs](https://particles.js.org/)
+## TS Particles
+
+Docs reference:
+	[TsParticles](https://particles.js.org/)
 
 [install tsParticles with npm](https://particles.js.org/)
 
@@ -94,9 +105,10 @@ npm i tsparticles
 
 <hr>
 
-Swiper Install
+## Swiper
 
-[Swiper](https://swiperjs.com/react)
+Docs reference:
+	[Swiper](https://swiperjs.com/react)
 
 ```sh
 
@@ -106,10 +118,11 @@ npm i swiper
 
 <hr>
 
+## Frame Motion
 
-Frame Motion
+Docs reference: 
+	[Frame Motion](https://www.framer.com/motion/introduction/)
 
-[Frame Motion](https://www.framer.com/motion/introduction/)
 
 ```sh
 
@@ -119,16 +132,16 @@ npm install framer-motion
 
 <hr>
 
-### Tailwind CSS
+## Tailwind CSS
 
 > Obs: 
 > remembering that tailwind css can be installed at the time of creation,
 
+Docs reference: 
+	[Tailwind Scrollbar](https://tailwindcss.com/docs/overflow#scrolling-if-needed)
 
-[Tailwind Scrollbar - Docs](https://tailwindcss.com/docs/overflow#scrolling-if-needed)
-
-
-[Tailwind scrollbar - Install](https://www.npmjs.com/package/tailwind-scrollbar)
+Install:
+	[Tailwind Scrollbar](https://www.npmjs.com/package/tailwind-scrollbar)
 
 ```sh
 
