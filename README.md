@@ -96,6 +96,20 @@ npm i tsparticles
 
 <hr>
 
+## React TsParticles
+Docs reference:
+	[React TsParticles](https://www.npmjs.com/package/react-tsparticles)
+
+Install
+
+```sh
+
+npm i react-tsparticles
+
+```
+
+<hr>
+
 ## Swiper
 
 Docs reference:
@@ -143,12 +157,12 @@ npm i tailwind-scrollbar
 |Autor: | Ivan | :heart:|👍 |
 |-------|------|--------|----|
 
-<!-- > Video tutorial
+> Video tutorial
 
 [Cristian Mihai](https://www.youtube.com/watch?v=qp0-L_M3Ad4&t=403s)
 |video duration:           | _02:50:47 _ |
-|--------------------------|--------------- |
-|progress status the video:|  00:08:48  🎱  | -->
+|--------------------------|----------------|
+|progress status the video:|  01:02:00  🎱 |
 
 <!-- ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3AbadgeContent) -->
 <hr> 
