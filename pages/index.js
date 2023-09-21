@@ -14,21 +14,18 @@ import { fadeIn } from '../variants'
 
 const Home = () => {
   return (
-    // <div className="bg-primary/60 h-[110%]">
     <div className="bg-primary/60 h-full">
       
       {/* text */}
-      {/* <div className="w-full h-[110%] bg-gradient-to-r from-primary/10 via-black/30 to-black/10"> */}
       <div className="w-full h-full bg-gradient-to-r from-primary/10 via-black/30 to-black/10">
         <div className="text-center flex flex-col justify-center xl:pt-45 xl:text-left h-full container mx-auto xl:mb-16">
-        {/* <div className="text-center flex flex-col justify-center xl:pt-45 xl:text-left h-[88%] container mx-auto xl:mb-16"> */}
           {/* title */}
           <motion.h1
             variants={fadeIn('down', 0.2)} 
             initial='hidden'
             animate='show'
             exit='hidden' 
-            className="h1"
+            className="h1 text-[40px]"
           >
             Tranforming Ideas <br /> Into{' '}
             <span className="text-accent">Digital Reality</span>
@@ -40,7 +37,7 @@ const Home = () => {
             initial='hidden'
             animate='show'
             exit='hidden'
-            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-14"
+            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-8 xl:mb-16"
           >
             Phasellus dolor. Aenean tellus metus, bibendum sed, posuere ac, mattis
             non, nunc. Maecenas ullamcorper, dui et placerat feugiat, eros pede.
@@ -70,7 +67,7 @@ const Home = () => {
         <div className="bg-none xl:bg-explosion xl:bg-cover xl:bg-right xl:bg-no-repeat w-full h-full absolute mix-blend-color-dodge translate-z-0"></div>
         
         {/* particles */}
-        <ParticlesContainer />
+        {/* <ParticlesContainer /> */}
 
         {/* avatar */}
         <motion.div
@@ -86,7 +83,6 @@ const Home = () => {
       </div>
     </div>
   );
-// 55:07 ok
 };
 
 export default Home;

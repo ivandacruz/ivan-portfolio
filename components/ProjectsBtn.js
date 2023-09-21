@@ -9,14 +9,23 @@ const ProjectsBtn = () => {
     <div className="mx-auto xl:mx-0">
       <Link 
           href={'/work'} 
-          className="relative w-[175px] h-[175px] flex justify-center items-center bg-circleStar bg-cover bg-center bg-no-repeat group">
+          className="relative w-[157px] h-[157px] flex justify-center items-center bg-circleStar bg-cover bg-center bg-no-repeat group"
+          // className="relative w-[175px] h-[175px] flex justify-center items-center bg-circleStar bg-cover bg-center bg-no-repeat group"
+        >
         <Image 
+          src={'/rounded-text.png'}
+          width={121}
+          height={138}
+          alt=""
+          className="animate-spin-slow w-full h-full max-w-[121px] max-h-[138px] " 
+        />
+        {/* <Image 
           src={'/rounded-text.png'}
           width={141}
           height={148}
           alt=""
           className="animate-spin-slow w-full h-full max-w-[141px] max-h-[148px] " 
-        />
+        /> */}
         <HiArrowRight className="absolute text-4xl group-hover:translate-x-6 transition-all duration-300  text-cyan-600" />
       </Link>
     </div>
