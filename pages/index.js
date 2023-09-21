@@ -14,14 +14,14 @@ import { fadeIn } from '../variants'
 
 const Home = () => {
   return (
+    // <div className="bg-primary/60 h-[110%]">
     <div className="bg-primary/60 h-full">
       
       {/* text */}
-      {/* <div className="w-full h-[80%] bg-gradient-to-r from-primary/10 via-black/30 to-black/10"> */}
+      {/* <div className="w-full h-[110%] bg-gradient-to-r from-primary/10 via-black/30 to-black/10"> */}
       <div className="w-full h-full bg-gradient-to-r from-primary/10 via-black/30 to-black/10">
-
-        {/* <div className="text-center flex flex-col justify-center xl:pt-40 xl:text-left h-[88%] container mx-1"> */}
-        <div className="text-center flex flex-col justify-center xl:pt-40 xl:text-left h-[88%] container mx-auto">
+        <div className="text-center flex flex-col justify-center xl:pt-45 xl:text-left h-full container mx-auto xl:mb-16">
+        {/* <div className="text-center flex flex-col justify-center xl:pt-45 xl:text-left h-[88%] container mx-auto xl:mb-16"> */}
           {/* title */}
           <motion.h1
             variants={fadeIn('down', 0.2)} 
@@ -40,8 +40,7 @@ const Home = () => {
             initial='hidden'
             animate='show'
             exit='hidden'
-            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
-            // className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
+            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-14"
           >
             Phasellus dolor. Aenean tellus metus, bibendum sed, posuere ac, mattis
             non, nunc. Maecenas ullamcorper, dui et placerat feugiat, eros pede.
@@ -63,12 +62,7 @@ const Home = () => {
           </motion.div>
         </div>
       </div>
-      {/* okk até aqui */}
-      
-      
-      
-      
-      
+
       {/* image */}
       <div className="w-[1200px] h-full absolute right-0 bottom-0">
         
@@ -77,6 +71,7 @@ const Home = () => {
         
         {/* particles */}
         <ParticlesContainer />
+
         {/* avatar */}
         <motion.div
           variants= {fadeIn('up', 0.5)}
